@@ -1,0 +1,32 @@
+# plot #
+########
+*.x
+*.dpx
+
+# benchmark #
+#############
+*.aux
+*.nodes
+*.nets
+*.pl
+*.scl
+*.route
+
+# object #
+##########
+obj/
+
+# executable #
+##############
+FLUTE_test
+
+# temp #
+########
+*.o
+*.out
+*.exe
+
+# system #
+##########
+.DS_Store  # macOS metadata file
+Thumbs.db  # Windows thumbnail cache file
