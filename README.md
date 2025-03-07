@@ -80,10 +80,16 @@ SRF 50 60 70 80
 │   ├── parser.cpp  
 │   ├── alg.cpp  
 │── 📄 circuit.aux # (ignored)  
+│── 📄 circuit.nodes # (ignored)  
+│── 📄 circuit.nets # (ignored)  
+│── 📄 circuit.scl # (ignored)  
+│── 📄 circuit.pl # (ignored)  
+│── 📄 circuit.route # (ignored)  
 │── 📄 circuit_ver.dpx # (ignored)  
 │── 📄 circuit_hor.dpx # (ignored)  
 │── 📄 circuit_w_ver.dpx # (ignored)   
-│── 📄 circuit_w_hor.dpx # (ignored)  
+│── 📄 circuit_w_hor.dpx # (ignored)
+│── 🖥️ FLUTE_test # (ignored)
 │── 🔧 Makefile  
 │── 📜 README.md # This file  
 │── 📜 .gitignore  
